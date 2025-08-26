@@ -11,7 +11,7 @@ function diminuitamanho() {
     if (tamanhoSenha > 1) {
         tamanhoSenha = tamanhoSenha - 1;
     }
-    numeroSenha.texContent - tamanhoSenha;
+    numeroSenha.texContent=tamanhoSenha;
 
 
 }
