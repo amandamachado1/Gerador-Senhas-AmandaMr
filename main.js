@@ -12,8 +12,6 @@ function diminuitamanho() {
         tamanhoSenha = tamanhoSenha - 1;
     }
     numeroSenha.texContent=tamanhoSenha;
-
-
 }
 
 
