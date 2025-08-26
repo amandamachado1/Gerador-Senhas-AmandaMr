@@ -7,11 +7,11 @@ const botoes = documen.querySelectorAll('.parametro-senha__botao');
 botoes[0].onclick = diminuitamanho;
 botoes[1].onclick = aumentatamnho;
 
-function diminuitamanho(){
-if(tamanhoSenha > 1){
-tamanhoSenha = tamanhoSenha - 1;
-}
-numeroSenha.texContent-tamanhoSenha;
+function diminuitamanho() {
+    if (tamanhoSenha > 1) {
+        tamanhoSenha = tamanhoSenha - 1;
+    }
+    numeroSenha.texContent - tamanhoSenha;
 
 
 }
